@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Readme Card](https://github-readme-stats-nine-hazel-67.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dushandz/dushandz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
